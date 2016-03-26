@@ -43,4 +43,10 @@ After logging in they will go to the dashboard and see it empty except for one c
 
 == TODO ==
 
+Clear all other Dashboard panels
+Add 'entrance survey' dashboard panel
+
+Add 'entrance survey' admin page
+Add 'entrance survey' questions
+
 Add 'login' link as default text to every new WordPress site
